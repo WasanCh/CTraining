@@ -24,6 +24,34 @@ namespace _001_Create_Database
         {
             InitializeComponent();
             AddDatabase.InitializeDatabase();
+            
+            
+            
+            
+        }
+
+        private void ShowDataBase_Button_Click(object sender, RoutedEventArgs e)
+        {
+
+            string data = "";
+            foreach(string inside in ShowDataOnTable.GetData())
+            {
+                data = data + " " + inside + "\n";
+            }
+            ShowData_TextBox.Text = data;
+
+
+        }
+
+        private void ShowData_TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            AddDataTable.AddData(AddData_TextBox.Text);
+            AddData_TextBox.Text = "";
         }
     }
 }

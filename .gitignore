@@ -1,0 +1,183 @@
+
+Book Store/.vs/Book Store/v16/.suo
+Book Store/Book Store.sln
+Book Store/Book Store/App.config
+Book Store/Book Store/App.xaml
+Book Store/Book Store/App.xaml.cs
+Book Store/Book Store/bin/Debug/Book Store.exe
+Book Store/Book Store/bin/Debug/Book Store.exe.config
+Book Store/Book Store/bin/Debug/Book Store.pdb
+Book Store/Book Store/bin/Debug/BookStore_DB.db
+Book Store/Book Store/bin/Debug/Microsoft.Data.Sqlite.dll
+Book Store/Book Store/bin/Debug/Microsoft.Data.Sqlite.xml
+Book Store/Book Store/bin/Debug/runtimes/win-arm/native/e_sqlite3.dll
+Book Store/Book Store/bin/Debug/runtimes/win-x64/native/e_sqlite3.dll
+Book Store/Book Store/bin/Debug/runtimes/win-x86/native/e_sqlite3.dll
+Book Store/Book Store/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+Book Store/Book Store/bin/Debug/SQLitePCLRaw.core.dll
+Book Store/Book Store/bin/Debug/SQLitePCLRaw.nativelibrary.dll
+Book Store/Book Store/bin/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll
+Book Store/Book Store/bin/Debug/System.Buffers.dll
+Book Store/Book Store/bin/Debug/System.Buffers.xml
+Book Store/Book Store/bin/Debug/System.Memory.dll
+Book Store/Book Store/bin/Debug/System.Memory.xml
+Book Store/Book Store/bin/Debug/System.Numerics.Vectors.dll
+Book Store/Book Store/bin/Debug/System.Numerics.Vectors.xml
+Book Store/Book Store/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+Book Store/Book Store/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+Book Store/Book Store/Book Store.csproj
+Book Store/Book Store/MainWindow.xaml
+Book Store/Book Store/MainWindow.xaml.cs
+Book Store/Book Store/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+Book Store/Book Store/obj/Debug/App.g.cs
+Book Store/Book Store/obj/Debug/App.g.i.cs
+Book Store/Book Store/obj/Debug/Book Store.csproj.CopyComplete
+Book Store/Book Store/obj/Debug/Book Store.csproj.CoreCompileInputs.cache
+Book Store/Book Store/obj/Debug/Book Store.csproj.FileListAbsolute.txt
+Book Store/Book Store/obj/Debug/Book Store.csproj.GenerateResource.cache
+Book Store/Book Store/obj/Debug/Book Store.csprojAssemblyReference.cache
+Book Store/Book Store/obj/Debug/Book Store.exe
+Book Store/Book Store/obj/Debug/Book Store.g.resources
+Book Store/Book Store/obj/Debug/Book Store.pdb
+Book Store/Book Store/obj/Debug/Book Store_Content.g.cs
+Book Store/Book Store/obj/Debug/Book Store_Content.g.i.cs
+Book Store/Book Store/obj/Debug/Book Store_MarkupCompile.cache
+Book Store/Book Store/obj/Debug/Book Store_MarkupCompile.i.cache
+Book Store/Book Store/obj/Debug/Book Store_MarkupCompile.i.lref
+Book Store/Book Store/obj/Debug/Book Store_MarkupCompile.lref
+Book Store/Book Store/obj/Debug/Book_Store.Properties.Resources.resources
+Book Store/Book Store/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+Book Store/Book Store/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Book Store/Book Store/obj/Debug/MainWindow.baml
+Book Store/Book Store/obj/Debug/MainWindow.g.cs
+Book Store/Book Store/obj/Debug/MainWindow.g.i.cs
+Book Store/Book Store/packages.config
+Book Store/Book Store/Properties/AssemblyInfo.cs
+Book Store/Book Store/Properties/Resources.Designer.cs
+Book Store/Book Store/Properties/Resources.resx
+Book Store/Book Store/Properties/Settings.Designer.cs
+Book Store/Book Store/Properties/Settings.settings
+Book Store/packages/Microsoft.Data.Sqlite.5.0.2/.signature.p7s
+Book Store/packages/Microsoft.Data.Sqlite.5.0.2/Icon.png
+Book Store/packages/Microsoft.Data.Sqlite.5.0.2/lib/netstandard2.0/_._
+Book Store/packages/Microsoft.Data.Sqlite.5.0.2/Microsoft.Data.Sqlite.5.0.2.nupkg
+Book Store/packages/Microsoft.Data.Sqlite.Core.5.0.2/.signature.p7s
+Book Store/packages/Microsoft.Data.Sqlite.Core.5.0.2/Icon.png
+Book Store/packages/Microsoft.Data.Sqlite.Core.5.0.2/lib/netstandard2.0/Microsoft.Data.Sqlite.dll
+Book Store/packages/Microsoft.Data.Sqlite.Core.5.0.2/lib/netstandard2.0/Microsoft.Data.Sqlite.xml
+Book Store/packages/Microsoft.Data.Sqlite.Core.5.0.2/Microsoft.Data.Sqlite.Core.5.0.2.nupkg
+Book Store/packages/SQLitePCLRaw.bundle_e_sqlite3.2.0.4/.signature.p7s
+Book Store/packages/SQLitePCLRaw.bundle_e_sqlite3.2.0.4/lib/net461/SQLitePCLRaw.batteries_v2.dll
+Book Store/packages/SQLitePCLRaw.bundle_e_sqlite3.2.0.4/lib/net461/SQLitePCLRaw.nativelibrary.dll
+Book Store/packages/SQLitePCLRaw.bundle_e_sqlite3.2.0.4/lib/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+Book Store/packages/SQLitePCLRaw.bundle_e_sqlite3.2.0.4/lib/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+Book Store/packages/SQLitePCLRaw.bundle_e_sqlite3.2.0.4/lib/netstandard2.0/SQLitePCLRaw.batteries_v2.dll
+Book Store/packages/SQLitePCLRaw.bundle_e_sqlite3.2.0.4/lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll
+Book Store/packages/SQLitePCLRaw.bundle_e_sqlite3.2.0.4/lib/Xamarin.tvOS10/SQLitePCLRaw.batteries_v2.dll
+Book Store/packages/SQLitePCLRaw.bundle_e_sqlite3.2.0.4/SQLitePCLRaw.bundle_e_sqlite3.2.0.4.nupkg
+Book Store/packages/SQLitePCLRaw.core.2.0.4/.signature.p7s
+Book Store/packages/SQLitePCLRaw.core.2.0.4/lib/netstandard2.0/SQLitePCLRaw.core.dll
+Book Store/packages/SQLitePCLRaw.core.2.0.4/SQLitePCLRaw.core.2.0.4.nupkg
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/.signature.p7s
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/build/net461/SQLitePCLRaw.lib.e_sqlite3.targets
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/lib/net461/_._
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/lib/netstandard2.0/_._
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/alpine-x64/native/libe_sqlite3.so
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/linux-arm/native/libe_sqlite3.so
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/linux-arm64/native/libe_sqlite3.so
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/linux-armel/native/libe_sqlite3.so
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/linux-mips64/native/libe_sqlite3.so
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/linux-musl-x64/native/libe_sqlite3.so
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/linux-x64/native/libe_sqlite3.so
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/linux-x86/native/libe_sqlite3.so
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/osx-x64/native/libe_sqlite3.dylib
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/win-arm/native/e_sqlite3.dll
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/win-arm64/native/e_sqlite3.dll
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/win-x64/native/e_sqlite3.dll
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/win-x86/native/e_sqlite3.dll
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/win10-arm/nativeassets/uap10.0/e_sqlite3.dll
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/win10-arm64/nativeassets/uap10.0/e_sqlite3.dll
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/win10-x64/nativeassets/uap10.0/e_sqlite3.dll
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/runtimes/win10-x86/nativeassets/uap10.0/e_sqlite3.dll
+Book Store/packages/SQLitePCLRaw.lib.e_sqlite3.2.0.4/SQLitePCLRaw.lib.e_sqlite3.2.0.4.nupkg
+Book Store/packages/SQLitePCLRaw.provider.dynamic_cdecl.2.0.4/.signature.p7s
+Book Store/packages/SQLitePCLRaw.provider.dynamic_cdecl.2.0.4/lib/netstandard2.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+Book Store/packages/SQLitePCLRaw.provider.dynamic_cdecl.2.0.4/SQLitePCLRaw.provider.dynamic_cdecl.2.0.4.nupkg
+Book Store/packages/System.Buffers.4.4.0/.signature.p7s
+Book Store/packages/System.Buffers.4.4.0/lib/netcoreapp2.0/_._
+Book Store/packages/System.Buffers.4.4.0/lib/netstandard1.1/System.Buffers.dll
+Book Store/packages/System.Buffers.4.4.0/lib/netstandard1.1/System.Buffers.xml
+Book Store/packages/System.Buffers.4.4.0/lib/netstandard2.0/System.Buffers.dll
+Book Store/packages/System.Buffers.4.4.0/lib/netstandard2.0/System.Buffers.xml
+Book Store/packages/System.Buffers.4.4.0/LICENSE.TXT
+Book Store/packages/System.Buffers.4.4.0/ref/netcoreapp2.0/_._
+Book Store/packages/System.Buffers.4.4.0/ref/netstandard1.1/System.Buffers.dll
+Book Store/packages/System.Buffers.4.4.0/ref/netstandard1.1/System.Buffers.xml
+Book Store/packages/System.Buffers.4.4.0/ref/netstandard2.0/System.Buffers.dll
+Book Store/packages/System.Buffers.4.4.0/ref/netstandard2.0/System.Buffers.xml
+Book Store/packages/System.Buffers.4.4.0/System.Buffers.4.4.0.nupkg
+Book Store/packages/System.Buffers.4.4.0/THIRD-PARTY-NOTICES.TXT
+Book Store/packages/System.Buffers.4.4.0/useSharedDesignerContext.txt
+Book Store/packages/System.Buffers.4.4.0/version.txt
+Book Store/packages/System.Memory.4.5.3/.signature.p7s
+Book Store/packages/System.Memory.4.5.3/lib/netcoreapp2.1/_._
+Book Store/packages/System.Memory.4.5.3/lib/netstandard1.1/System.Memory.dll
+Book Store/packages/System.Memory.4.5.3/lib/netstandard1.1/System.Memory.xml
+Book Store/packages/System.Memory.4.5.3/lib/netstandard2.0/System.Memory.dll
+Book Store/packages/System.Memory.4.5.3/lib/netstandard2.0/System.Memory.xml
+Book Store/packages/System.Memory.4.5.3/LICENSE.TXT
+Book Store/packages/System.Memory.4.5.3/ref/netcoreapp2.1/_._
+Book Store/packages/System.Memory.4.5.3/System.Memory.4.5.3.nupkg
+Book Store/packages/System.Memory.4.5.3/THIRD-PARTY-NOTICES.TXT
+Book Store/packages/System.Memory.4.5.3/useSharedDesignerContext.txt
+Book Store/packages/System.Memory.4.5.3/version.txt
+Book Store/packages/System.Numerics.Vectors.4.4.0/.signature.p7s
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/MonoAndroid10/_._
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/MonoTouch10/_._
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/net46/System.Numerics.Vectors.dll
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/net46/System.Numerics.Vectors.xml
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/netcoreapp2.0/_._
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/netstandard1.0/System.Numerics.Vectors.dll
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/netstandard1.0/System.Numerics.Vectors.xml
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/netstandard2.0/System.Numerics.Vectors.dll
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/netstandard2.0/System.Numerics.Vectors.xml
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.xml
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/xamarinios10/_._
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/xamarinmac20/_._
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/xamarintvos10/_._
+Book Store/packages/System.Numerics.Vectors.4.4.0/lib/xamarinwatchos10/_._
+Book Store/packages/System.Numerics.Vectors.4.4.0/LICENSE.TXT
+Book Store/packages/System.Numerics.Vectors.4.4.0/ref/MonoAndroid10/_._
+Book Store/packages/System.Numerics.Vectors.4.4.0/ref/MonoTouch10/_._
+Book Store/packages/System.Numerics.Vectors.4.4.0/ref/net46/System.Numerics.Vectors.dll
+Book Store/packages/System.Numerics.Vectors.4.4.0/ref/net46/System.Numerics.Vectors.xml
+Book Store/packages/System.Numerics.Vectors.4.4.0/ref/netcoreapp2.0/_._
+Book Store/packages/System.Numerics.Vectors.4.4.0/ref/netstandard1.0/System.Numerics.Vectors.dll
+Book Store/packages/System.Numerics.Vectors.4.4.0/ref/netstandard1.0/System.Numerics.Vectors.xml
+Book Store/packages/System.Numerics.Vectors.4.4.0/ref/netstandard2.0/System.Numerics.Vectors.dll
+Book Store/packages/System.Numerics.Vectors.4.4.0/ref/netstandard2.0/System.Numerics.Vectors.xml
+Book Store/packages/System.Numerics.Vectors.4.4.0/ref/xamarinios10/_._
+Book Store/packages/System.Numerics.Vectors.4.4.0/ref/xamarinmac20/_._
+Book Store/packages/System.Numerics.Vectors.4.4.0/ref/xamarintvos10/_._
+Book Store/packages/System.Numerics.Vectors.4.4.0/ref/xamarinwatchos10/_._
+Book Store/packages/System.Numerics.Vectors.4.4.0/System.Numerics.Vectors.4.4.0.nupkg
+Book Store/packages/System.Numerics.Vectors.4.4.0/THIRD-PARTY-NOTICES.TXT
+Book Store/packages/System.Numerics.Vectors.4.4.0/useSharedDesignerContext.txt
+Book Store/packages/System.Numerics.Vectors.4.4.0/version.txt
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/.signature.p7s
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/LICENSE.TXT
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/System.Runtime.CompilerServices.Unsafe.4.5.2.nupkg
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/THIRD-PARTY-NOTICES.TXT
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/useSharedDesignerContext.txt
+Book Store/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/version.txt

@@ -17,6 +17,7 @@ namespace _001_Create_Database
             {
                 db.Open();
 
+
                 String tableCommand = "CREATE TABLE IF NOT " +
                     "EXISTS MyTable_TB (Primary_Key INTEGER PRIMARY KEY, " +
                     "Text_Entry NVARCHAR(2048) NULL)";
